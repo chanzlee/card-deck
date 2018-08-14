@@ -6,7 +6,7 @@
 
 ## Description
 
-_.this webpage create a list fo cards deck. Script uses a forEach() loop within another forEach() loop to build an array representing a deck of cards. (A deck consists of 52 cards - 13 ranks in each of 4 suits.)_
+_This webpage create a list fo cards deck. Script uses a forEach() loop within another forEach() loop to build an array representing a deck of cards. (A deck consists of 52 cards - 13 ranks in each of 4 suits.)_
 
 ## Setup/Installation Requirements
 
